@@ -14,9 +14,28 @@ Me apasiona lo que hago, por eso sigo aprendiendo dia a dia. Actualmente soy des
 </div>
 
 
+ ---
+ 
+ ## 👨🏻‍💻Acerca de Mi : 
+ 
+ 
+ - 📙 Estudio actualmente Backend
+ - 💡 Conocimientos  en Html, Css , JavaScript y ReactJs.
+ - 🌐Contacto : **matias007acu@hotmail.com**
+ - LinkedIn [Matias Acuña](https://www.linkedin.com/in/matiasacua/)
 
-
-
+<h3> 🔨Lenguajes y Herramientas:</h3>   
+<div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' alt='html5' title='HTML5' width='40 height='40'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg' alt='css3' title='CSS3' width='40 height='40'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' alt='js' title='Js' width='40 height='40'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' alt='sass' title='Sass' width='40 height='40'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' title='Bootstrap' width='40    height='40'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' title='React' width='40 height='40'/>               <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='git' title='Git' width='40 height='40'/>                         <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg' alt='firebase' title='Firebase' width='40 height='40'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' alt='github' title='Github' width='40 height='40'/>   
+                                                                                                                                               
+</div>
+ 
 
 
 <!--
