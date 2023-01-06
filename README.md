@@ -20,9 +20,9 @@ Me apasiona lo que hago, por eso sigo aprendiendo dia a dia. Actualmente soy des
  
  
  - 📙 Estudio actualmente Backend
- - 💡 Conocimientos  en Html, Css , JavaScript y ReactJs.
- - 🌐Contacto : **matias007acu@hotmail.com**
- - LinkedIn [Matias Acuña](https://www.linkedin.com/in/matiasacua/)
+ - 💡 Skills: Html, Css , JavaScript y ReactJs.
+ - 🌐Contacto: **matias007acu@hotmail.com**
+ - Linkedin [Matias Acuña](https://www.linkedin.com/in/matiasacua/)
 
 <h3> 🔨Lenguajes y Herramientas:</h3>   
 <div>
